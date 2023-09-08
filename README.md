@@ -46,4 +46,4 @@ Clone this repo and run:
 ```
 access on localhost:8080
 
-[Link to SLA Documentation](https://docs.google.com/document/d/1EcA5Bq1tWTAAquR8SLItb9lkzqM3v7ZV7q9IDzAMvVM/edit)
+[Link to SLA API Usage](https://docs.google.com/document/d/1EcA5Bq1tWTAAquR8SLItb9lkzqM3v7ZV7q9IDzAMvVM/edit)
